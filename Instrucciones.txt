@@ -1,0 +1,10 @@
+El programa funciona de esta forma:
+
+- Debes agregar tu archivo CSV, 
+  renombrarlo a "data.csv" y ubicarlo en la carpeta raiz.
+
+- Luego al ejecutar "csv_converter.exe" se convertira
+  el archivo que agregaste y se guardara con la fecha
+  del día de hoy.
+
+El codigo fuente se encuentra en un archivo .py por si alguien desea revisarlo
